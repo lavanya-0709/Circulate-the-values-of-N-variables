@@ -33,4 +33,4 @@ def circulate():
 ## Output:
 ![alt text](sssn.png)
 ## Result:
-The distance between the two points is sucessfully executed and displayed.
+The output for circulate the values of n variables is successfull.
